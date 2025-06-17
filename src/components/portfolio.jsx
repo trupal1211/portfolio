@@ -689,9 +689,9 @@ const projects = [
 ]
 
 const downloadResume = () => {
-  alert("Resume download will be available soon! Please contact me directly for now.")
+  // alert("Resume download will be available soon! Please contact me directly for now.")
   // Or redirect to your LinkedIn profile
-  // window.open("https://www.linkedin.com/in/trupal-godhat-68b490250", "_blank")
+  window.open("https://drive.google.com/file/d/1XqafyCXk_48h66vMdesTnPIXK-h3trTh/view?usp=sharing","_blank")
 }
 
 export default function Portfolio() {
