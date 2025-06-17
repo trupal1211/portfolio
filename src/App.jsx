@@ -1,4 +1,4 @@
-import Portfolio from "./components/Portfolio"
+import Portfolio from "./components/portfolio"
 import { ThemeProvider } from "./components/theme-provider"
 
 function App() {
