@@ -225,7 +225,7 @@ export default function Portfolio() {
           </motion.div>
 
           <motion.h1
-            className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-slate-900 dark:from-white via-violet-500 dark:via-violet-200 to-violet-400 bg-clip-text text-transparent"
+            className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-slate-900 dark:from-white via-violet-500 dark:via-violet-200 to-violet-400 bg-clip-text text-transparent"
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2, duration: 0.8 }}
