@@ -536,7 +536,7 @@ export default function Portfolio() {
                   {/* Logo */}
                   <div className="shrink-0">
                     <img
-                      src="https://media.licdn.com/dms/image/v2/C560BAQGGs7FAnQInjw/company-logo_200_200/company-logo_200_200/0/1630648817023/vmvinfosoft_logo?e=1755734400&v=beta&t=XYgIpaTqxETK0Q6i2_vxqAlf8jG5Vha7rSf50X2e8Tc"
+                      src="https://media.licdn.com/dms/image/v2/C560BAQGGs7FAnQInjw/company-logo_200_200/company-logo_200_200/0/1630648817023/vmvinfosoft_logo?e=1758758400&v=beta&t=skIHG7aLS46GWSeqe4ORiE6PaJvYjGRTmW5yzvdo2Lk"
                       alt="VMV Infosoft Logo"
                       className="w-10 h-10 sm:w-12 sm:h-12 rounded mt-1"
                     />
