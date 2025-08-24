@@ -216,7 +216,7 @@ export default function Portfolio() {
           >
             <div className="relative inline-block">
               <img
-                src="https://media.licdn.com/dms/image/v2/D5603AQHQFPJ67dJcgA/profile-displayphoto-scale_400_400/B56Zge7LWjHQAo-/0/1752865487963?e=1755734400&v=beta&t=Cyn3dCfaM8jZPkmHvyfpFjwaHwsS3l3DHY4eEz5tRkI"
+                src="https://media.licdn.com/dms/image/v2/D5603AQHQFPJ67dJcgA/profile-displayphoto-scale_400_400/B56Zge7LWjHQAo-/0/1752865487963?e=1758758400&v=beta&t=afMrhXK4JDYILc1-k45kV63Nr1XiQMOc4z-CrGmxvb8"
                 alt="Trupal Godhat"
                 className="w-40 h-40 rounded-full border-4 border-violet-400/50 shadow-2xl shadow-violet-500/25"
               />
@@ -494,7 +494,7 @@ export default function Portfolio() {
                   {/* Header section: logo and title side by side on mobile */}
                   <div className="flex flex-row sm:flex-col items-start sm:items-start gap-4">
                     <img
-                      src="https://media.licdn.com/dms/image/v2/C560BAQGGs7FAnQInjw/company-logo_200_200/company-logo_200_200/0/1630648817023/vmvinfosoft_logo?e=1755734400&v=beta&t=XYgIpaTqxETK0Q6i2_vxqAlf8jG5Vha7rSf50X2e8Tc"
+                      src="https://media.licdn.com/dms/image/v2/C560BAQGGs7FAnQInjw/company-logo_200_200/company-logo_200_200/0/1630648817023/vmvinfosoft_logo?e=1758758400&v=beta&t=skIHG7aLS46GWSeqe4ORiE6PaJvYjGRTmW5yzvdo2Lk"
                       alt="VMV Infosoft Logo"
                       className="w-10 h-10 sm:w-12 sm:h-12 rounded mt-1"
                     />
