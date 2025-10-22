@@ -219,7 +219,7 @@ export default function Portfolio() {
           >
             <div className="relative inline-block">
               <img
-                src={{ProfilePic}}
+                src={ProfilePic}
                 alt="Trupal Godhat"
                 className="w-40 h-40 rounded-full border-4 border-violet-400/50 shadow-2xl shadow-violet-500/25"
               />
@@ -497,7 +497,7 @@ export default function Portfolio() {
                   {/* Header section: logo and title side by side on mobile */}
                   <div className="flex flex-row sm:flex-col items-start sm:items-start gap-4">
                     <img
-                      src={{VmvLogo}}
+                      src={VmvLogo}
                       alt="VMV Infosoft Logo"
                       className="w-10 h-10 sm:w-12 sm:h-12 rounded mt-1"
                     />
@@ -539,7 +539,7 @@ export default function Portfolio() {
                   {/* Logo */}
                   <div className="shrink-0">
                     <img
-                      src="https://media.licdn.com/dms/image/v2/C560BAQGGs7FAnQInjw/company-logo_200_200/company-logo_200_200/0/1630648817023/vmvinfosoft_logo?e=1758758400&v=beta&t=skIHG7aLS46GWSeqe4ORiE6PaJvYjGRTmW5yzvdo2Lk"
+                      src={VmvLogo}
                       alt="VMV Infosoft Logo"
                       className="w-10 h-10 sm:w-12 sm:h-12 rounded mt-1"
                     />
